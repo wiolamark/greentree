@@ -23,7 +23,7 @@ void search(char* pat, char* txt)
 
 int main()
 {
-	char txt[] = "ALGORYTMY I hhhhSTRUKTURY DANYCH";
+	char txt[] = "ALGORYTMY I STRUKTURY DANYCH";
 	char pat[] = "TUR";
 	search(pat, txt);
 	return 0;
